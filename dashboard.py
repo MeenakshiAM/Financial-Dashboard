@@ -12,10 +12,11 @@ st.title(" :bar_chart: YOUR FINANCE GUIDE")
 st.markdown('<style>div.block-container{padding-top:1rem;}</style>',unsafe_allow_html=True)
 
 fl = st.file_uploader(":file_folder: Upload a file",type=(["csv","txt","xlsx","xls"]))
+print(fl)
 if fl is not None:
     filename = fl.name
     st.write(filename)
-    df = pd.read_csv(filename, encoding = "ISO-8859-1")
+    df = pd.read_csv(fl, encoding = "ISO-8859-1")
 else:
     os.chdir(r"C:\Users\varad\OneDrive\Desktop\Financial dashboard")
     df = pd.read_csv("Superstore.csv", encoding = "ISO-8859-1")
@@ -57,6 +58,10 @@ else:
 
 # Create for City
 city = st.sidebar.multiselect("Pick the City",df3["City"].unique())
+if not city:
+    df4 = df3.copy()
+else:
+    df4 = df3[df3["City"].isin(city)]
 
 # Filter the data based on Region, State and City
 
