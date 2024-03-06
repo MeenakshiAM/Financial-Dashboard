@@ -20,7 +20,9 @@ else:
     df = pd.read_csv("Superstore.csv", encoding = "ISO-8859-1")
 
 col1, col2 = st.columns((2))
+
 df["Order Date"] = pd.to_datetime(df["Order Date"])
+
 
 # Getting the min and max date 
 startDate = pd.to_datetime(df["Order Date"]).min()
@@ -35,3 +37,5 @@ with col2:
 df = df[(df["Order Date"] >= date1) & (df["Order Date"] <= date2)].copy()
 
 st.sidebar.header("Choose your filter: ")
+
+
