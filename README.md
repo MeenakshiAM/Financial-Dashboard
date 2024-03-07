@@ -29,6 +29,9 @@ pandas
 pip install streamlit
 pip install plotly
 pip install os-sys
+## HOW TO RUN
+change the directory to the ones to which you are saving the default csv file "Superstore.csv"
+
 pip install pandas
 ## How to Run
 provide an a dataset of type :
