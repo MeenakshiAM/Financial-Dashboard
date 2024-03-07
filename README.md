@@ -9,3 +9,5 @@ This financial dashboard project provides a comprehensive overview of key financ
 3.[GRACE ELIZABETH JOSE](https://github.com/Grace1903)
 4.[ROSHNI THOMAS]()
 
+## How it works?
+##Packages to download
