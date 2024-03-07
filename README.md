@@ -21,14 +21,15 @@ Long Description about project. This project do that. This project is awesome...
 
 
 ## Libraries used
-streamlit
-plotly
-os
-pandas
+1. streamlit
+2. plotly
+3. os
+4. pandas
+
 ## How to configure
-pip install streamlit
-pip install plotly
-pip install os-sys
+`pip install streamlit`
+`pip install plotly`
+`pip install os-sys`
 ## HOW TO RUN
 change the directory to the ones to which you are saving the default csv file "Superstore.csv"
 
