@@ -21,3 +21,14 @@ Instructions for setting up project
 Instructions for running
 
 
+<<<<<<< HEAD
+=======
+## TEAM MEMBERS
+1.[VARALAKSHMI K.G.]()
+2.[MEENAKSHI  A.M.]()
+3.[GRACE ELIZABETH JOSE](https://github.com/Grace1903)
+4.[ROSHNI THOMAS]()
+
+## How it works?
+##Packages to download
+>>>>>>> b671653b5da3b33d82a0005b82ad44c02cf1829a
