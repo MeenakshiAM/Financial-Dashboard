@@ -11,7 +11,8 @@ Long Description about project. This project do that. This project is awesome...
 3. [Roshni Thomas](https://github.com/RoshniAnnThomas/Financial-Dashboard.git)
 
 ## How the website looks
-[link to video](Link Here)
+![image](https://github.com/Varalakshmi2354/Financial-Dashboard/assets/122163650/bdc7a5d7-963c-4c2e-9939-ebdfcb716f80)
+](Link Here)
 ## How it Works ?
 1. Explaining the working of project
 2. Embed video of project demo
