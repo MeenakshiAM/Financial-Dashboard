@@ -12,7 +12,11 @@ Long Description about project. This project do that. This project is awesome...
 
 ## How the website looks
 ![image](https://github.com/Varalakshmi2354/Financial-Dashboard/assets/122163650/bdc7a5d7-963c-4c2e-9939-ebdfcb716f80)
-](Link Here)
+]
+![image](https://github.com/Varalakshmi2354/Financial-Dashboard/assets/122163650/89d2b7c9-0cfb-4140-aeb7-161a44e41b0f)
+![Screenshot 2024-03-07 111233](https://github.com/Varalakshmi2354/Financial-Dashboard/assets/122163650/b65a0ef3-c0f5-47ff-9303-53f2ffaf76a1)
+
+
 ## How it Works ?
 1. Explaining the working of project
 2. Embed video of project demo
