@@ -15,6 +15,12 @@ Long Description about project. This project do that. This project is awesome...
 ]
 ![image](https://github.com/Varalakshmi2354/Financial-Dashboard/assets/122163650/89d2b7c9-0cfb-4140-aeb7-161a44e41b0f)
 ![Screenshot 2024-03-07 111233](https://github.com/Varalakshmi2354/Financial-Dashboard/assets/122163650/b65a0ef3-c0f5-47ff-9303-53f2ffaf76a1)
+![Screenshot 2024-03-07 111246](https://github.com/Varalakshmi2354/Financial-Dashboard/assets/122163650/b98da6e7-1db5-400e-bb73-46fdca3fa791)
+![Screenshot 2024-03-07 111301](https://github.com/Varalakshmi2354/Financial-Dashboard/assets/122163650/a20883c9-7f03-4aea-9dec-9e17fb6d039e)
+![Screenshot 2024-03-07 111325](https://github.com/Varalakshmi2354/Financial-Dashboard/assets/122163650/df1bf86b-d8c4-4f52-a1b9-f60c5027272b)
+
+
+
 
 
 ## How it Works ?
