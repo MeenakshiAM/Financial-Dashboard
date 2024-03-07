@@ -5,7 +5,7 @@ This financial dashboard project provides a comprehensive overview of key financ
 
 ##TEAM MEMBERS
 1.[VARALAKSHMI K.G.]
-2.MEENAKSHI  A.M.
-3.GRACE ELIZABETH JOSE
-4.ROSHNI THOMAS
+2.[MEENAKSHI  A.M.]
+3.[GRACE ELIZABETH JOSE]
+4.[ROSHNI THOMAS]
 
