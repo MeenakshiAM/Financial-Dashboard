@@ -20,15 +20,19 @@ Long Description about project. This project do that. This project is awesome...
 ![Screenshot 2024-03-07 111325](https://github.com/Varalakshmi2354/Financial-Dashboard/assets/122163650/df1bf86b-d8c4-4f52-a1b9-f60c5027272b)
 
 
-
-
-
-## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
 ## Libraries used
-Library Name - Version
+streamlit
+plotly
+os
+pandas
 ## How to configure
-Instructions for setting up project
+pip install streamlit
+pip install plotly
+pip install os-sys
+pip install pandas
 ## How to Run
-Instructions for running
+provide an a dataset of type :
+"csv"
+"txt"
+"xlsx"
+"xls"
