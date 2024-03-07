@@ -21,10 +21,10 @@ Long Description about project. This project do that. This project is awesome...
 
 
 ## Libraries used
-streamlit
-plotly
-os
-pandas
+[streamlit]
+[plotly]
+[os]
+[pandas]
 ## How to configure
 pip install streamlit
 pip install plotly
