@@ -1,5 +1,5 @@
 # Financial-Dashboard
-#OVERVIEW
+OVERVIEW
 This financial dashboard project provides a comprehensive overview of key financial metrics and insights. Designed to assist users in making informed financial decisions, the dashboard offers a user-friendly interface with intuitive visualizations.
 # Project Name
 Long Description about project. This project do that. This project is awesome...
